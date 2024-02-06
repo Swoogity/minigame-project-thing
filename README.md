@@ -9,6 +9,7 @@ You control the blue circle (the player), moving it out of the way of the red re
 
 
 Dev log:
+
 The camera is fixated above the player, and they are able to move on the x and z axis, and are stopped if they hit the edge of the screen.
 
 There are six stages to the cars spawning, each of which adds a line of cars driving down a new lane.
