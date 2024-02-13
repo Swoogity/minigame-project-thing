@@ -22,10 +22,12 @@ All cars are destroyed shortly after they drive offscreen.
 
 If any of the cars collide with the player, then the player object is destroyed, and the game must be restarted to try again.
 
+I added more sizes of cars, theres now a smaller one, a medium one, and a bigger one.
+
+I fixed the timer, it now counts up from when you start the game, and stops when the player dies.
+
 Cut Content:
 
-I was planning on making some models for the cars/player if I had time to.
+I was planning on making some models for the cars/player if I had time to, but didn't.
 
-I was going to make the cars spawn froma small array of models, but I didn't get to make any models, so the code is set up to pull from an array of cars, but there's only one car in each array.
-
-I attempted to code an on screen timer to show the player how long they have survived, but I had trouble getting it to work, and ran out of time to work on it.
+I was also planning on making a jump button, but it wasn't working the way I wanted it to.
