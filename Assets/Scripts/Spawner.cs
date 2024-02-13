@@ -26,7 +26,7 @@ public class Spawner : MonoBehaviour
     private float spawnPosZ = 9.0f;
 
     // car spawn ranges
-    private float CarRangeStart = 1.2f;
+    private float CarRangeStart = 0.0f;
     private float CarRangeFinish = 4.2f;
     private float CarRangeFinishV = 10.5f;
 

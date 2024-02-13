@@ -9,7 +9,7 @@ public class PlayerControl : MonoBehaviour
     public float jInput;
     public float speed = 10.0f;
     //public float jHeight = 1;
-    public float xRange = 10;
+    public float xRange = 11;
     public float zRange = 5;
 
     // Start is called before the first frame update
